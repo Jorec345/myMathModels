@@ -7,6 +7,9 @@
 
   <ItemGroup>
     <Compile Include="mathematicalModels.fs" />
+    <Compile Include="financialRatios.fs" />
   </ItemGroup>
+
+  <ItemGroup />
 
 </Project>
